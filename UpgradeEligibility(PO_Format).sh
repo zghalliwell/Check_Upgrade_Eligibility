@@ -94,7 +94,7 @@ mobileDevicePOUnformatted=
 computerPOUnformatted=
 
 ##############################
-# Prelminary info gathering
+# Preliminary info gathering
 ##############################
 
 echo "Gathering preliminary information..."
