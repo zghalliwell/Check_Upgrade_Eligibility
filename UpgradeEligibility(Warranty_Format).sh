@@ -78,7 +78,7 @@ mobileDeviceData=
 message=
 
 ##############################
-# Prelminary info gathering
+# Preliminary info gathering
 ##############################
 
 echo "Gathering preliminary information..."
